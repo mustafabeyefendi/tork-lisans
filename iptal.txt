@@ -1,1 +1,2 @@
 # İptal edilen lisans anahtarı kimlikleri (her satıra bir tane)
+e259c25f43f7b3ea8b1b2073bde007aa
